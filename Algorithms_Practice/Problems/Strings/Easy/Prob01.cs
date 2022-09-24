@@ -1,6 +1,6 @@
-﻿namespace Algorithms_Practice.Problems.Strings;
+﻿namespace Algorithms_Practice.Problems.Strings.Easy;
 
-public class Prob02
+public class Prob01
 {
     /// <summary>
     ///     https://www.hackerrank.com/challenges/reduced-string/problem

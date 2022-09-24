@@ -1,6 +1,6 @@
-﻿namespace Algorithms_Practice.Problems.Strings;
+﻿namespace Algorithms_Practice.Problems.Strings.Easy;
 
-public class Prob4
+public class Prob3
 {
     /// <summary>
     ///     https://www.hackerrank.com/challenges/day-of-the-programmer/problem

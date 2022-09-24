@@ -1,6 +1,6 @@
-﻿namespace Algorithms_Practice.Problems.Strings;
+﻿namespace Algorithms_Practice.Problems.Strings.Medium;
 
-public static class Prob04Medium
+public static class Prob02
 {
     public static int LengthOfLongestSubstring(string s)
     {

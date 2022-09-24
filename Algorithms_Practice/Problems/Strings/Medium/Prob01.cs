@@ -1,4 +1,4 @@
-﻿namespace Algorithms_Practice.Problems.Strings;
+﻿namespace Algorithms_Practice.Problems.Strings.Medium;
 
 public class Prob01
 {

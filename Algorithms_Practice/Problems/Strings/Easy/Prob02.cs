@@ -1,6 +1,6 @@
-﻿namespace Algorithms_Practice.Problems.Strings;
+﻿namespace Algorithms_Practice.Problems.Strings.Easy;
 
-public static class Prob03
+public static class Prob02
 {
     /// <summary>
     ///     https://www.hackerrank.com/challenges/strong-password/problem

@@ -37,7 +37,7 @@ public static class Prob01
         return s.Equals(s.Reverse());
     }
 
-    public static int[] solution(int[] balances, string[] requests)
+    public static int[] Solution(int[] balances, string[] requests)
     {
         for (var i = 0; i < requests.Length; i++)
         {

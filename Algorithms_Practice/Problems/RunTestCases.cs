@@ -21,7 +21,7 @@ public static class RunTestCases
            "transfer 9 2 94"
        };
 
-       var output = Algorithms_Practice.Problems.DP.Medium.Prob01.solution(balances, requests);
+       var output = Algorithms_Practice.Problems.DP.Medium.Prob01.Solution(balances, requests);
        
         Console.WriteLine(output);
     }
